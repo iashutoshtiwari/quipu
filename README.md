@@ -1,2 +1,2 @@
-# quipu
+# Quipu
 A decentralized social network application.
